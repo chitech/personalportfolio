@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css?family=Monda|Righteous|La+Belle+Aurore');
+body {
+  font-family: 'Mondo', sans-serif;
+  position:relative;
+}
+legend, .social-title{
+  font-family:'Righteous', sans-serif;
+}
+.navbar{
+ 
+  background:#f8f8f8;
+  margin:0;
+}
+.navbar-brand {
+  color: #fBFBFB;
+  font-family: 'La Belle Aurore', cursive;
+  font-size:40px;
+}
+
+#headshot img {
+  border: 2px solid #ccc;
+  margin: 30px;
+}
+
+.jumbotron {
+  color:#ccc;
+  background-color:#7e8b94;
+  margin:0;
+}
+.jumbotron h1 {
+  color: #fbfbfb;
+  font-family: 'Righteous', sans-serif;
+}
+.btn {
+  font-family:'Righteous', sans-serif;
+  font-size: 20px;
+}
+.btn-danger, .btn-primary {
+  background-color:#CCCA28;
+  border: 2px solid #ccc; 
+}
+.title {
+  color:#f8f8f8;
+  font-family: 'Righteous', sans-serif;
+}
+.programming {
+  padding:30px;
+  color:#ccc;
+  background-color: #444444; 
+}
+.projects {
+  padding:30px;
+  color: #ccc;
+  background-color:#191911;
+}
+.thumbnail {
+ background-color:#f8f8f8;
+}
+.thumbnail img {
+  width:300px;
+  height:300px;
+}
+#contact {
+  padding:30px;
+  background:#494949;
+}
+.form-horizontal {
+  margin:30px;
+  border: 2px solid #ccc;
+}
+
+#social li {
+  list-style-type:none;
+  display:inline-block;
+  margin:10px;
+  
+}
+footer{
+  background:#237AB2;
+  padding:20px;
+}
+
+
